@@ -80,7 +80,7 @@ Cliquez sur le bouton ci-dessous pour jouer immédiatement :
 
 Si vous avez des questions ou souhaitez signaler un problème, contactez-moi :  
 📧 **Email** : [jcl832016@gmail.com](mailto:jcl832016@gmail.com)  
-🌐 **Site Web** : [https://ton-nom.github.io/mon-jeu/](https://pythonman83.github.io/Atelier_Web_2025/)  
+🌐 **Site Web** : [https://ton-nom.github.io/mon-jeu/](https://github.com/pythonman83/)  
 
 ---
 
